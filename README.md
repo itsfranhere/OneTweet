@@ -7,9 +7,9 @@ This was the second project that was given to us and we had one more brief to a
 
 The brief:
 
-1. Choose a tweet (short text of up to 140 characters).
+1.Choose a tweet (short text of up to 140 characters).
 
-2. Use your chosen tweet to create a poster. Your poster must follow these rules:
+2.Use your chosen tweet to create a poster. Your poster must follow these rules:
 
 * Text-only, no pictures
 * 1 font-family
@@ -17,7 +17,7 @@ The brief:
 * Square format: width = height
 * Vector file
 
-3. Produce several variations of your poster (min 5), exploring:
+3.Produce several variations of your poster (min 5), exploring:
 
 * Symmetry
 * Figure/ground relationship
