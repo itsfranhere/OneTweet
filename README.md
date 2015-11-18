@@ -17,7 +17,7 @@ The brief:
 - Square format: width = height
 - Vector file
 
-3. Produce several variations of your poster (min 5), exploring:
+4. Produce several variations of your poster (min 5), exploring:
 
 - Closure
 - Symmetry
