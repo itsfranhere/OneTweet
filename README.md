@@ -29,7 +29,7 @@ The brief:
 
 I choose Snowden due to its  popularity and I felt that I had a lot more information to work with, and aesthetically make it presentable short tweet. I tried to deliver great work experiences in order of providing a meaningful artwork.
 
-I did some research about Snowdento know more about his historical content and I found a lot as I expected. Edward Snowden is a former National Security Agency subcontractor who made headlines in 2013 when he leaked top secret information about NSA surveillance activities.
+I did some research about Snowden to know more about his historical content and I found a lot as I expected. Edward Snowden is a former National Security Agency subcontractor who made headlines in 2013 when he leaked top secret information about NSA surveillance activities.
 Snowden came to international attention after stories based on the material appeared in The Guardian and The Washington Post. Further disclosures were made by other newspapers including Der Spiegel and The New York Times.
 
 I tried to adapt all this concept by engaging a range of numerous examples, so that a bit of its historical content could stand out. I started  by doing some sketches and then getting the best solution for each one during the entire process.my goal was  to arrange a powerful connection between the visual and the concept.
