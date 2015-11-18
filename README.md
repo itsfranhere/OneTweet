@@ -11,22 +11,21 @@ The brief:
 
 2. Use your chosen tweet to create a poster. Your poster must follow these rules:
 
-- Text-only, no pictures
-- 1 font-family
-- 3 colours max
-- Square format: width = height
-- Vector file
+* Text-only, no pictures
+* 1 font-family
+* 3 colours max
+* Square format: width = height
+* Vector file
 
-4. Produce several variations of your poster (min 5), exploring:
+3. Produce several variations of your poster (min 5), exploring:
 
-- Closure
-- Symmetry
-- Figure/ground relationship
-- Connectedness
-- Proximity
-- Continuation
-- Similarity
-- Past experience
+* Symmetry
+* Figure/ground relationship
+* Connectedness
+* Proximity
+* Continuation
+* Similarity
+* Past experience
 
 I choose Snowden due to its  popularity and I felt that I had a lot more information to work with, and aesthetically make it presentable short tweet. I tried to deliver great work experiences in order of providing a meaningful artwork.
 
