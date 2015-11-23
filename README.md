@@ -1,7 +1,7 @@
 # OneTweet
 One Tweet project
 
-typography and creating meaning with text.
+<b>typography and creating meaning with text.</b>
 
 This was the second project that was given to us and we had one more brief to accomplish. we needed to choose a tweet from the options below and follow some rules to produce several variations. We couldn’t use images, as we were only allowed to use text for a deep knowledge of the same.
 
