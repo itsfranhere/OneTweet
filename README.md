@@ -34,6 +34,10 @@ Snowden came to international attention after stories based on the material appe
 
 I tried to adapt all this concept by engaging a range of numerous examples, so that a bit of its historical content could stand out. I started  by doing some sketches and then getting the best solution for each one during the entire process.my goal was  to arrange a powerful connection between the visual and the concept.
 
+![image](https://github.com/itsfranhere/OneTweet/blob/master/content/DSCF2026.JPG)
+
+![image](https://github.com/itsfranhere/OneTweet/blob/master/content/DSCF2027.JPG)
+
 After some thoughts about the presentation, I definitely agree the feedback that was given to me. I was able to understand that sometimes less is better and that we can communicate  better with big images rather than a wide variety of small ones, it gives the audience more credibility when trying to share our ideas and concepts.
 
 ![image](https://github.com/itsfranhere/OneTweet/blob/master/content/1.png)
